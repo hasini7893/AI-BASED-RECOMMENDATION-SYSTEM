@@ -38,3 +38,7 @@ In accordance with the format needed for the internship deliverable, the program
 
 This project shows how artificial intelligence (AI) can be used in the real world to personalize content or product recommendations, which are frequently employed by websites like Amazon, Netflix.
 
+## OUTPUT ##
+
+<img width="1452" height="112" alt="Image" src="https://github.com/user-attachments/assets/afdc5f5c-88af-4892-ae87-560583bf9d5f" />
+
